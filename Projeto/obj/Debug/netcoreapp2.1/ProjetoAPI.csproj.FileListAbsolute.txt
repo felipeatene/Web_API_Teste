@@ -1,0 +1,14 @@
+C:\Users\felip\Documents\Teste IOASYS\vsCode_TESTE\ProjetoAPI\bin\Debug\netcoreapp2.1\ProjetoAPI.deps.json
+C:\Users\felip\Documents\Teste IOASYS\vsCode_TESTE\ProjetoAPI\bin\Debug\netcoreapp2.1\ProjetoAPI.runtimeconfig.json
+C:\Users\felip\Documents\Teste IOASYS\vsCode_TESTE\ProjetoAPI\bin\Debug\netcoreapp2.1\ProjetoAPI.runtimeconfig.dev.json
+C:\Users\felip\Documents\Teste IOASYS\vsCode_TESTE\ProjetoAPI\bin\Debug\netcoreapp2.1\ProjetoAPI.dll
+C:\Users\felip\Documents\Teste IOASYS\vsCode_TESTE\ProjetoAPI\obj\Debug\netcoreapp2.1\ProjetoAPI.csprojAssemblyReference.cache
+C:\Users\felip\Documents\Teste IOASYS\vsCode_TESTE\ProjetoAPI\obj\Debug\netcoreapp2.1\ProjetoAPI.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\Teste IOASYS\vsCode_TESTE\ProjetoAPI\obj\Debug\netcoreapp2.1\ProjetoAPI.RazorAssemblyInfo.cache
+C:\Users\felip\Documents\Teste IOASYS\vsCode_TESTE\ProjetoAPI\obj\Debug\netcoreapp2.1\ProjetoAPI.RazorAssemblyInfo.cs
+C:\Users\felip\Documents\Teste IOASYS\vsCode_TESTE\ProjetoAPI\obj\Debug\netcoreapp2.1\ProjetoAPI.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\Teste IOASYS\vsCode_TESTE\ProjetoAPI\obj\Debug\netcoreapp2.1\ProjetoAPI.AssemblyInfo.cs
+C:\Users\felip\Documents\Teste IOASYS\vsCode_TESTE\ProjetoAPI\obj\Debug\netcoreapp2.1\ProjetoAPI.RazorTargetAssemblyInfo.cache
+C:\Users\felip\Documents\Teste IOASYS\vsCode_TESTE\ProjetoAPI\bin\Debug\netcoreapp2.1\ProjetoAPI.pdb
+C:\Users\felip\Documents\Teste IOASYS\vsCode_TESTE\ProjetoAPI\obj\Debug\netcoreapp2.1\ProjetoAPI.dll
+C:\Users\felip\Documents\Teste IOASYS\vsCode_TESTE\ProjetoAPI\obj\Debug\netcoreapp2.1\ProjetoAPI.pdb
